@@ -1,0 +1,140 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e19]: Create a red button
+            - img [ref=e22]
+          - generic [ref=e25]:
+            - img [ref=e28]
+            - generic [ref=e33]:
+              - generic [ref=e36]: str_replace_editor
+              - separator [ref=e37]
+              - paragraph [ref=e39]: Done! Created a red button with hover effect.
+          - generic [ref=e40]:
+            - generic [ref=e43]: Move the button to the top-left leaving a border offset. Make the right mouse click open a popup menu with tree items.
+            - img [ref=e46]
+          - generic [ref=e49]:
+            - img [ref=e52]
+            - generic [ref=e57]:
+              - generic [ref=e60]: str_replace_editor
+              - separator [ref=e61]
+              - paragraph [ref=e63]: "Let me view the file first:"
+              - generic [ref=e66]: str_replace_editor
+              - separator [ref=e67]
+              - generic [ref=e70]: str_replace_editor
+              - separator [ref=e71]
+              - generic [ref=e74]: file_manager
+              - separator [ref=e75]
+              - generic [ref=e78]: str_replace_editor
+              - separator [ref=e79]
+              - paragraph [ref=e81]: Done! Button is now in the top-left with a 4px border offset. Right-click opens a context menu with three items.
+          - generic [ref=e82]:
+            - generic [ref=e85]: If i left click on the item1 create a signle line imput field where I can write. On Enter type, create a message Box with the entered string and a close button to close the message box.
+            - img [ref=e88]
+          - generic [ref=e91]:
+            - img [ref=e94]
+            - generic [ref=e99]:
+              - generic [ref=e102]: str_replace_editor
+              - separator [ref=e103]
+              - paragraph [ref=e105]: Done! Click Item 1 to show an input field. Type and press Enter to create a message box with a close button.
+          - generic [ref=e106]:
+            - generic [ref=e109]: Build a dark-themed music player with a track list of 5 realistic songs, album art placeholders with gradients, animated equalizer bars on the playing track, a progress bar with elapsed/total time, and play/pause/skip controls. Use rich colors and a polished card-based layout.
+            - img [ref=e112]
+          - generic [ref=e115]:
+            - img [ref=e118]
+            - generic [ref=e123]:
+              - generic [ref=e126]: file_manager
+              - separator [ref=e127]
+              - generic [ref=e130]: str_replace_editor
+              - separator [ref=e131]
+              - paragraph [ref=e133]: Here's your dark-themed music player with animated equalizer, progress tracking, and interactive playlist.
+        - generic [ref=e136]:
+          - textbox "Describe the React component you want to create..." [ref=e137]
+          - button [disabled] [ref=e138]:
+            - img [ref=e139]
+    - separator [ref=e142]
+    - generic [ref=e144]:
+      - generic [ref=e145]:
+        - tablist [ref=e147]:
+          - tab "Preview" [selected] [ref=e148]
+          - tab "Code" [ref=e149]
+        - generic [ref=e150]:
+          - combobox [expanded] [ref=e156]:
+            - img
+            - text: Design from 19:49:11
+            - img
+          - button "New Design" [ref=e151]:
+            - img
+            - text: New Design
+          - button "Sign out" [ref=e152]:
+            - img
+      - iframe [ref=e155]:
+        - generic [ref=f7e4]:
+          - generic [ref=f7e5]:
+            - generic [ref=f7e13]:
+              - heading "Midnight Dreams" [level=2] [ref=f7e14]
+              - paragraph [ref=f7e15]: Luna Echo
+            - generic [ref=f7e18]:
+              - generic [ref=f7e19]: 0:00
+              - generic [ref=f7e20]: 4:05
+            - generic [ref=f7e21]:
+              - button [ref=f7e22] [cursor=pointer]:
+                - img [ref=f7e23]
+              - button [ref=f7e25] [cursor=pointer]:
+                - img [ref=f7e26]
+              - button [ref=f7e28] [cursor=pointer]:
+                - img [ref=f7e29]
+          - generic [ref=f7e31]:
+            - heading "Playlist" [level=3] [ref=f7e32]
+            - generic [ref=f7e33]:
+              - button "Midnight Dreams Luna Echo 4:05" [ref=f7e34] [cursor=pointer]:
+                - generic [ref=f7e35]:
+                  - generic [ref=f7e36]:
+                    - paragraph [ref=f7e37]: Midnight Dreams
+                    - paragraph [ref=f7e38]: Luna Echo
+                  - generic [ref=f7e39]: 4:05
+              - button "Electric Pulse Neon Waves 3:18" [ref=f7e40] [cursor=pointer]:
+                - generic [ref=f7e41]:
+                  - generic [ref=f7e42]:
+                    - paragraph [ref=f7e43]: Electric Pulse
+                    - paragraph [ref=f7e44]: Neon Waves
+                  - generic [ref=f7e45]: 3:18
+              - button "Cosmic Journey Star Dust 4:27" [ref=f7e46] [cursor=pointer]:
+                - generic [ref=f7e47]:
+                  - generic [ref=f7e48]:
+                    - paragraph [ref=f7e49]: Cosmic Journey
+                    - paragraph [ref=f7e50]: Star Dust
+                  - generic [ref=f7e51]: 4:27
+              - button "Velvet Nights Indigo Soul 3:43" [ref=f7e52] [cursor=pointer]:
+                - generic [ref=f7e53]:
+                  - generic [ref=f7e54]:
+                    - paragraph [ref=f7e55]: Velvet Nights
+                    - paragraph [ref=f7e56]: Indigo Soul
+                  - generic [ref=f7e57]: 3:43
+              - button "Golden Hour Sunset Vibes 3:32" [ref=f7e58] [cursor=pointer]:
+                - generic [ref=f7e59]:
+                  - generic [ref=f7e60]:
+                    - paragraph [ref=f7e61]: Golden Hour
+                    - paragraph [ref=f7e62]: Sunset Vibes
+                  - generic [ref=f7e63]: 3:32
+  - alert [ref=e157]
+  - dialog [ref=e159]:
+    - generic [ref=e160]:
+      - generic [ref=e162]:
+        - img [ref=e163]
+        - combobox [expanded] [active] [ref=e166]
+      - listbox "Suggestions" [ref=e167]:
+        - generic [ref=e168]:
+          - group [ref=e169]:
+            - option "Design from 19:49:11" [ref=e170]:
+              - generic [ref=e172]: Design from 19:49:11
+            - 'option "New Design #10629" [ref=e173]':
+              - generic [ref=e175]: "New Design #10629"
+          - separator [ref=e176]
+          - group [ref=e177]:
+            - option "Save as ZIP" [selected] [ref=e178]:
+              - img
+              - text: Save as ZIP

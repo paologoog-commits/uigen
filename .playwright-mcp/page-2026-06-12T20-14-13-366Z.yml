@@ -1,0 +1,191 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e19]: Create a red button
+            - img [ref=e22]
+          - generic [ref=e25]:
+            - img [ref=e28]
+            - generic [ref=e33]:
+              - generic [ref=e36]: str_replace_editor
+              - separator [ref=e37]
+              - paragraph [ref=e39]: Done! Created a red button with hover effect.
+          - generic [ref=e40]:
+            - generic [ref=e43]: Move the button to the top-left leaving a border offset. Make the right mouse click open a popup menu with tree items.
+            - img [ref=e46]
+          - generic [ref=e49]:
+            - img [ref=e52]
+            - generic [ref=e57]:
+              - generic [ref=e60]: str_replace_editor
+              - separator [ref=e61]
+              - paragraph [ref=e63]: "Let me view the file first:"
+              - generic [ref=e66]: str_replace_editor
+              - separator [ref=e67]
+              - generic [ref=e70]: str_replace_editor
+              - separator [ref=e71]
+              - generic [ref=e74]: file_manager
+              - separator [ref=e75]
+              - generic [ref=e78]: str_replace_editor
+              - separator [ref=e79]
+              - paragraph [ref=e81]: Done! Button is now in the top-left with a 4px border offset. Right-click opens a context menu with three items.
+          - generic [ref=e82]:
+            - generic [ref=e85]: If i left click on the item1 create a signle line imput field where I can write. On Enter type, create a message Box with the entered string and a close button to close the message box.
+            - img [ref=e88]
+          - generic [ref=e91]:
+            - img [ref=e94]
+            - generic [ref=e99]:
+              - generic [ref=e102]: str_replace_editor
+              - separator [ref=e103]
+              - paragraph [ref=e105]: Done! Click Item 1 to show an input field. Type and press Enter to create a message box with a close button.
+          - generic [ref=e130]:
+            - generic [ref=e133]: Build a dark-themed music player with a track list of 5 realistic songs, album art placeholders with gradients, animated equalizer bars on the playing track, a progress bar with elapsed/total time, and play/pause/skip controls. Use rich colors and a polished card-based layout.
+            - img [ref=e136]
+          - generic [ref=e139]:
+            - img [ref=e142]
+            - generic [ref=e147]:
+              - generic [ref=e150]: file_manager
+              - separator [ref=e151]
+              - generic [ref=e154]: str_replace_editor
+              - separator [ref=e155]
+              - paragraph [ref=e157]: Here's your dark-themed music player with animated equalizer, progress tracking, and interactive playlist.
+        - generic [ref=e108]:
+          - textbox "Describe the React component you want to create..." [ref=e109]
+          - button [disabled] [ref=e110]:
+            - img [ref=e111]
+    - separator [ref=e114]
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - tablist [ref=e119]:
+          - tab "Preview" [ref=e120]
+          - tab "Code" [active] [selected] [ref=e121]
+        - generic [ref=e122]:
+          - combobox [ref=e128]:
+            - img
+            - text: Design from 19:49:11
+            - img
+          - button "New Design" [ref=e123]:
+            - img
+            - text: New Design
+          - button "Sign out" [ref=e124]:
+            - img
+      - generic [ref=e165]:
+        - generic [ref=e173] [cursor=pointer]:
+          - img [ref=e174]
+          - generic [ref=e179]: App.jsx
+        - separator [ref=e180]
+        - code [ref=e185]:
+          - generic [ref=e186]:
+            - generic [ref=e188]:
+              - generic [ref=e191]: "1"
+              - generic [ref=e193]: "2"
+              - generic [ref=e195]: "3"
+              - generic [ref=e196]:
+                - generic [ref=e197] [cursor=pointer]: 
+                - generic [ref=e198]: "4"
+              - generic [ref=e200]: "5"
+              - generic [ref=e202]: "6"
+              - generic [ref=e204]: "7"
+              - generic [ref=e206]: "8"
+              - generic [ref=e207]:
+                - generic [ref=e208] [cursor=pointer]: 
+                - generic [ref=e209]: "9"
+              - generic [ref=e211]: "10"
+              - generic [ref=e213]: "11"
+              - generic [ref=e215]: "12"
+              - generic [ref=e217]: "13"
+              - generic [ref=e219]: "14"
+              - generic [ref=e221]: "15"
+              - generic [ref=e223]: "16"
+              - generic [ref=e224]:
+                - generic [ref=e225] [cursor=pointer]: 
+                - generic [ref=e226]: "17"
+              - generic [ref=e228]: "18"
+              - generic [ref=e230]: "19"
+              - generic [ref=e232]: "20"
+              - generic [ref=e234]: "21"
+              - generic [ref=e236]: "22"
+              - generic [ref=e238]: "23"
+              - generic [ref=e240]: "24"
+              - generic [ref=e241]:
+                - generic [ref=e242] [cursor=pointer]: 
+                - generic [ref=e243]: "25"
+              - generic [ref=e245]: "26"
+              - generic [ref=e246]:
+                - generic [ref=e247] [cursor=pointer]: 
+                - generic [ref=e248]: "27"
+              - generic [ref=e249]:
+                - generic [ref=e250] [cursor=pointer]: 
+                - generic [ref=e251]: "28"
+              - generic [ref=e252]:
+                - generic [ref=e253] [cursor=pointer]: 
+                - generic [ref=e254]: "29"
+              - generic [ref=e255]:
+                - generic [ref=e256] [cursor=pointer]: 
+                - generic [ref=e257]: "30"
+              - generic [ref=e259]: "31"
+              - generic [ref=e261]: "32"
+              - generic [ref=e263]: "33"
+              - generic [ref=e265]: "34"
+              - generic [ref=e267]: "35"
+              - generic [ref=e269]: "36"
+              - generic [ref=e271]: "37"
+              - generic [ref=e273]: "38"
+              - generic [ref=e275]: "39"
+              - generic [ref=e277]: "40"
+              - generic [ref=e278]:
+                - generic [ref=e279] [cursor=pointer]: 
+                - generic [ref=e280]: "41"
+              - generic [ref=e282]: "42"
+              - generic [ref=e284]: "43"
+              - generic [ref=e286]: "44"
+            - generic [ref=e420]:
+              - generic [ref=e422]: "import { useState, useEffect } from 'react';"
+              - generic [ref=e424]: "import { Play, Pause, SkipForward, SkipBack } from 'lucide-react';"
+              - generic [ref=e427]: "export default function App() {"
+              - generic [ref=e429]: const [currentTrack, setCurrentTrack] = useState(0);
+              - generic [ref=e431]: const [isPlaying, setIsPlaying] = useState(false);
+              - generic [ref=e433]: const [progress, setProgress] = useState(0);
+              - generic [ref=e436]: const tracks = [
+              - generic [ref=e438]: "{ id: 1, title: 'Midnight Dreams', artist: 'Luna Echo', duration: 245 },"
+              - generic [ref=e440]: "{ id: 2, title: 'Electric Pulse', artist: 'Neon Waves', duration: 198 },"
+              - generic [ref=e442]: "{ id: 3, title: 'Cosmic Journey', artist: 'Star Dust', duration: 267 },"
+              - generic [ref=e444]: "{ id: 4, title: 'Velvet Nights', artist: 'Indigo Soul', duration: 223 },"
+              - generic [ref=e446]: "{ id: 5, title: 'Golden Hour', artist: 'Sunset Vibes', duration: 212 },"
+              - generic [ref=e448]: "];"
+              - generic [ref=e451]: const gradients = [
+              - generic [ref=e453]: "'from-purple-600 to-pink-500',"
+              - generic [ref=e455]: "'from-blue-600 to-cyan-500',"
+              - generic [ref=e457]: "'from-orange-600 to-red-500',"
+              - generic [ref=e459]: "'from-indigo-600 to-purple-500',"
+              - generic [ref=e461]: "'from-yellow-600 to-orange-500',"
+              - generic [ref=e463]: "];"
+              - generic [ref=e466]: "useEffect(() => {"
+              - generic [ref=e468]: let interval;
+              - generic [ref=e470]: "if (isPlaying) {"
+              - generic [ref=e472]: "interval = setInterval(() => {"
+              - generic [ref=e474]: "setProgress((prev) => {"
+              - generic [ref=e476]: "if (prev >= 100) {"
+              - generic [ref=e478]: handleSkipNext();
+              - generic [ref=e480]: return 0;
+              - generic [ref=e482]: "}"
+              - generic [ref=e484]: return prev + 0.5;
+              - generic [ref=e486]: "});"
+              - generic [ref=e488]: "}, 1000);"
+              - generic [ref=e490]: "}"
+              - generic [ref=e492]: return () => clearInterval(interval);
+              - generic [ref=e494]: "}, [isPlaying, currentTrack]);"
+              - generic [ref=e497]: "const handlePlayPause = () => {"
+              - generic [ref=e499]: setIsPlaying(!isPlaying);
+              - generic [ref=e501]: "};"
+            - textbox "Editor content" [ref=e504]
+            - generic:
+              - generic:
+                - generic:
+                  - list
+  - alert [ref=e129]
+  - generic [ref=e505]:
+    - alert
+    - alert

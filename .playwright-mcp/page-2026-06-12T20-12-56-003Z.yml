@@ -1,0 +1,65 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic [ref=e19]: Create a red button
+            - img [ref=e22]
+          - generic [ref=e25]:
+            - img [ref=e28]
+            - generic [ref=e33]:
+              - generic [ref=e36]: str_replace_editor
+              - separator [ref=e37]
+              - paragraph [ref=e39]: Done! Created a red button with hover effect.
+          - generic [ref=e40]:
+            - generic [ref=e43]: Move the button to the top-left leaving a border offset. Make the right mouse click open a popup menu with tree items.
+            - img [ref=e46]
+          - generic [ref=e49]:
+            - img [ref=e52]
+            - generic [ref=e57]:
+              - generic [ref=e60]: str_replace_editor
+              - separator [ref=e61]
+              - paragraph [ref=e63]: "Let me view the file first:"
+              - generic [ref=e66]: str_replace_editor
+              - separator [ref=e67]
+              - generic [ref=e70]: str_replace_editor
+              - separator [ref=e71]
+              - generic [ref=e74]: file_manager
+              - separator [ref=e75]
+              - generic [ref=e78]: str_replace_editor
+              - separator [ref=e79]
+              - paragraph [ref=e81]: Done! Button is now in the top-left with a 4px border offset. Right-click opens a context menu with three items.
+          - generic [ref=e82]:
+            - generic [ref=e85]: If i left click on the item1 create a signle line imput field where I can write. On Enter type, create a message Box with the entered string and a close button to close the message box.
+            - img [ref=e88]
+          - generic [ref=e91]:
+            - img [ref=e94]
+            - generic [ref=e99]:
+              - generic [ref=e102]: str_replace_editor
+              - separator [ref=e103]
+              - paragraph [ref=e105]: Done! Click Item 1 to show an input field. Type and press Enter to create a message box with a close button.
+        - generic [ref=e108]:
+          - textbox "Describe the React component you want to create..." [active] [ref=e109]: Build a dark-themed music player with a track list of 5 realistic songs, album art placeholders with gradients, animated equalizer bars on the playing track, a progress bar with elapsed/total time, and play/pause/skip controls. Use rich colors and a polished card-based layout.
+          - button [ref=e110]:
+            - img [ref=e111]
+    - separator [ref=e114]
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - tablist [ref=e119]:
+          - tab "Preview" [selected] [ref=e120]
+          - tab "Code" [ref=e121]
+        - generic [ref=e122]:
+          - combobox [ref=e128]:
+            - img
+            - text: Design from 19:49:11
+            - img
+          - button "New Design" [ref=e123]:
+            - img
+            - text: New Design
+          - button "Sign out" [ref=e124]:
+            - img
+      - iframe [ref=e127]:
+        - button "Click me" [ref=f4e4] [cursor=pointer]
+  - alert [ref=e129]

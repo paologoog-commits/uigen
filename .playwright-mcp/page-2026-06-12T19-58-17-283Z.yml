@@ -1,0 +1,65 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e51]
+  - generic [ref=e71]:
+    - generic [ref=e73]:
+      - heading "React Component Generator" [level=1] [ref=e75]
+      - generic [ref=e77]:
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - generic [ref=e87]: Create a red button
+            - img [ref=e90]
+          - generic [ref=e93]:
+            - img [ref=e96]
+            - generic [ref=e101]:
+              - generic [ref=e104]: str_replace_editor
+              - separator [ref=e105]
+              - paragraph [ref=e107]: Done! Created a red button with hover effect.
+          - generic [ref=e108]:
+            - generic [ref=e111]: Move the button to the top-left leaving a border offset. Make the right mouse click open a popup menu with tree items.
+            - img [ref=e114]
+          - generic [ref=e117]:
+            - img [ref=e120]
+            - generic [ref=e125]:
+              - generic [ref=e128]: str_replace_editor
+              - separator [ref=e129]
+              - paragraph [ref=e131]: "Let me view the file first:"
+              - generic [ref=e134]: str_replace_editor
+              - separator [ref=e135]
+              - generic [ref=e138]: str_replace_editor
+              - separator [ref=e139]
+              - generic [ref=e142]: file_manager
+              - separator [ref=e143]
+              - generic [ref=e146]: str_replace_editor
+              - separator [ref=e147]
+              - paragraph [ref=e149]: Done! Button is now in the top-left with a 4px border offset. Right-click opens a context menu with three items.
+          - generic [ref=e150]:
+            - generic [ref=e153]: If i left click on the item1 create a signle line imput field where I can write. On Enter type, create a message Box with the entered string and a close button to close the message box.
+            - img [ref=e156]
+          - generic [ref=e159]:
+            - img [ref=e162]
+            - generic [ref=e167]:
+              - generic [ref=e170]: str_replace_editor
+              - separator [ref=e171]
+              - paragraph [ref=e173]: Done! Click Item 1 to show an input field. Type and press Enter to create a message box with a close button.
+        - generic [ref=e176]:
+          - textbox "Describe the React component you want to create..." [ref=e177]
+          - button [disabled] [ref=e178]:
+            - img [ref=e179]
+    - separator [ref=e182]
+    - generic [ref=e184]:
+      - generic [ref=e185]:
+        - tablist [ref=e187]:
+          - tab "Preview" [selected] [ref=e188]
+          - tab "Code" [ref=e189]
+        - generic [ref=e190]:
+          - combobox [ref=e191]:
+            - img
+            - text: Design from 19:49:11
+            - img
+          - button "New Design" [ref=e192]:
+            - img
+            - text: New Design
+          - button "Sign out" [ref=e193]:
+            - img
+      - iframe [ref=e196]:
+        - button "Click me" [ref=f2e4] [cursor=pointer]
